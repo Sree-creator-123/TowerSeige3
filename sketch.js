@@ -7,7 +7,7 @@ var engine, world;
 var backgroundImg,platform;
 var bird, slingShot;
 
-var bg = "sprites/bg.png"
+var bg = "bg.png"
 var score = 0;
 
 function preload() {
